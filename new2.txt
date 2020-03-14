@@ -2,3 +2,4 @@ This file is created directly in remote repo!
 Another update!
 Remote change
 Local, Remote
+change in master before rebase!
